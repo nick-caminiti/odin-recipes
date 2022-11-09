@@ -1,0 +1,33 @@
+
+* {
+    background-color: rgb(117, 86, 39);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+}
+
+h2 {
+    color: rgb(243, 221, 151);
+    font-size: 34px;
+}
+
+h3 {
+    color: rgb(122, 240, 104);
+    font-size: 30px;
+}
+
+ul.main {
+    color: aqua;
+    font-size: 30px;
+}
+
+ul.ing {
+    color: rgb(180, 114, 246);
+}
+
+ol.steps {
+    color:rgb(146, 136, 255)
+}
