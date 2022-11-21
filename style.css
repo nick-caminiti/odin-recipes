@@ -1,6 +1,6 @@
 
 * {
-    background-color: rgb(117, 86, 39);
+    background-color: white;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -25,9 +25,9 @@ ul.main {
 }
 
 ul.ing {
-    color: rgb(180, 114, 246);
+    color: black ;
 }
 
 ol.steps {
-    color:rgb(146, 136, 255)
+    color: black;
 }
